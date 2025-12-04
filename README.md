@@ -158,7 +158,7 @@ endmodule
 <img width="1919" height="1199" alt="Screenshot 2025-09-16 154915" src="https://github.com/user-attachments/assets/d6a1c4c5-b7c7-4bb9-b0d5-d71bc36a453a" />
 ---
 ### T Flip-Flop (Non Blocking)
-```verilog
+```
 module d_ff (
     input wire d,clk,
     output reg Q
